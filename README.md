@@ -4,6 +4,8 @@ August 31, 2023
 Hosted by [Free A ssociation](https://www.freeassociation.com)
 Presenter/Author: Kyle Truscott
 
+![Widget screenshot](button-explorer.png)
+
 ### Overview
 
 This package contains the simple `Button Explorer` widget presented during the live webinar. Feel free to use this code as a starting point for your journey into building design tools.

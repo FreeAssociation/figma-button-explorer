@@ -1,7 +1,7 @@
 # A designer's guide to building Widgets in Figma
 
 August 31, 2023
-Hosted by [Free Association](https://www.freeassociation.com)
+Hosted by [Free A ssociation](https://www.freeassociation.com)
 Presenter/Author: Kyle Truscott
 
 ### Overview
